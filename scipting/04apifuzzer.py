@@ -1,5 +1,5 @@
 import requests
-import sys
+# import sys
 
 wordlist_file_path = r"D:\OJT\python\wordlist\test.txt"
 
@@ -11,6 +11,6 @@ for word in wordlist:
     if res.status_code == 200:
         print(res.status_code)
         print(word)
-        
+
     # data = res.json()
     # print(data)
