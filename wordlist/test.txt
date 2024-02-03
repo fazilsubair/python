@@ -1,0 +1,11 @@
+products 	
+carts 	
+users 	
+posts 	
+comments 
+image 	 
+quotes 
+recipes
+todos 
+http 
+auth
